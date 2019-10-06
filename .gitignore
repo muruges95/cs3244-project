@@ -1,0 +1,6 @@
+.empty
+.ipynb_checkpoints
+.vscode
+
+# ignore data files
+Kickstarter*
